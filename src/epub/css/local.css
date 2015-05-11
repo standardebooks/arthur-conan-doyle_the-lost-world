@@ -49,7 +49,12 @@ abbr.name{
 
 b{
 	font-weight: normal;
-	font-variant: small-caps;
+	font-variant: all-small-caps;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
 }
 
 figure{
