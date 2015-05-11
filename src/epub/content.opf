@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sir-arthur-conan-doyle/the-lost-world</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-11T23:10:48Z</meta>
+		<meta property="dcterms:modified">2015-05-11T23:11:12Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -40,7 +40,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/139</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/012293606</dc:source>
-		<meta property="se:word-count">76455</meta>
+		<meta property="se:word-count">76441</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lost_World_%28Conan_Doyle_novel%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sir-arthur-conan-doyle-the-lost-world</meta>
 		<dc:creator id="author">Sir Arthur Conan Doyle</dc:creator>
