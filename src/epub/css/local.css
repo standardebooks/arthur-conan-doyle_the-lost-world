@@ -52,6 +52,18 @@ b{
 	font-variant: small-caps;
 }
 
+figure{
+	margin: 1em;
+	max-height: 100%;
+	text-align: center;
+}
+
+figure img{
+	max-width: 100%;
+	margin: auto;
+	display: block;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
