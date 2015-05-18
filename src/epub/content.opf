@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sir-arthur-conan-doyle/the-lost-world</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-05-17T21:46:12Z</meta>
+		<meta property="dcterms:modified">2015-05-18T21:08:57Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -48,9 +48,10 @@
 		<meta property="se:name.person.full-name" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
-		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
-		<meta property="se:url.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Albert_Bierstadt</meta>
+		<dc:contributor id="artist">Charles R. Knight</dc:contributor>
+		<meta property="file-as" refines="#artist">Knight, Charles R.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Charles Robert Knight</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_R._Knight</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
