@@ -46,12 +46,14 @@
 		<dc:creator id="author">Sir Arthur Conan Doyle</dc:creator>
 		<meta property="file-as" refines="#author">Conan Doyle, Sir Arthur</meta>
 		<meta property="se:name.person.full-name" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Charles R. Knight</dc:contributor>
 		<meta property="file-as" refines="#artist">Knight, Charles R.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Charles Robert Knight</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_R._Knight</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_R._Knight</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82073093.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
