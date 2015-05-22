@@ -47,6 +47,10 @@ abbr.name{
 	white-space: nowrap;
 }
 
+abbr.initialism{
+	font-variant: all-small-caps;
+}
+
 b{
 	font-weight: normal;
 	font-variant: all-small-caps;
@@ -67,11 +71,4 @@ figure img{
 	max-width: 100%;
 	margin: auto;
 	display: block;
-}
-
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html),
-abbr{
-	background: #C0C0C0;
 }
