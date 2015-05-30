@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sir-arthur-conan-doyle/the-lost-world</dc:identifier>
 		<dc:date>2015-05-22T01:00:16Z</dc:date>
-		<meta property="dcterms:modified">2015-05-22T01:00:16Z</meta>
+		<meta property="dcterms:modified">2015-05-30T21:23:10Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -31,16 +31,19 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A team of scientists and adventurers explores a prehistoric land.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;Even though Doyle is most famous for his Sherlock stories, he was also a prolific novelist, and &lt;i&gt;The Lost World&lt;/i&gt; is one of his more famous non-Sherlock novels.  Like many novels of the day, it was first published serially.&lt;/p&gt;
+			&lt;p&gt;In it we meet a group of adventurers who head to a deep South American jungle to explore rumors of long-lost dinosaurs.  The plot is driven by their journey, discoveries, and subsequent narrow escape.  Notably, &lt;i&gt;The Lost World&lt;/i&gt; is the novel in which Doyle's popular recurring character, Professor Challenger, is introduced.&lt;/p&gt;
+			&lt;p&gt;Doyle based many of the characters and locations on people and places he was familiar with: the journalist Ed Malone was modeled on E. D. Morel, and Lord John Roxton on Roger Casement; the Lost World itself was based on descriptions of Bolivia in letters sent to Doyle by his friend Percy Harrison Fawcett.&lt;/p&gt;
+			&lt;p&gt;The novel remains hugely influential and widely adapted today.  The title might even remind modern readers of a certain very famous movie franchise about dinosaur theme parks!&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/139</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/012293606</dc:source>
-		<meta property="se:word-count">76453</meta>
+		<meta property="se:word-count">76471</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lost_World_%28Conan_Doyle_novel%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sir-arthur-conan-doyle_the-lost-world</meta>
 		<dc:creator id="author">Sir Arthur Conan Doyle</dc:creator>
