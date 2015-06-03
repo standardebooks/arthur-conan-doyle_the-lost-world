@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sir-arthur-conan-doyle/the-lost-world</dc:identifier>
 		<dc:date>2015-05-22T01:00:16Z</dc:date>
-		<meta property="dcterms:modified">2015-05-30T21:23:10Z</meta>
+		<meta property="dcterms:modified">2015-06-08T22:39:28Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
