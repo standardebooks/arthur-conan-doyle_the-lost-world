@@ -1,17 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-*[epub|type~="z3998:letter"],
-div.newspaper{
-	margin: 1em;
-}
-
-*[epub|type~="z3998:letter"] + p,
 *[epub|type~="z3998:letter"] header p,
 *[epub|type~="z3998:letter"] footer p,
 *[epub|type~="z3998:letter"] header + p,
-div.newspaper + p,
-div.newspaper h4 + p{
+.newspaper h4 + p{
 	text-indent: 0;
 }
 
