@@ -33,7 +33,8 @@ section[epub|type~="epigraph"] blockquote{
 }
 
 p span.i1{
-	text-indent: 0;
+	text-indent: -1em;
+	padding-left: 2em;
 }
 
 abbr.name{
