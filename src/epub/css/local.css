@@ -41,10 +41,6 @@ abbr.name{
 	white-space: nowrap;
 }
 
-abbr.initialism{
-	font-variant: all-small-caps;
-}
-
 b{
 	font-weight: normal;
 	font-variant: all-small-caps;
