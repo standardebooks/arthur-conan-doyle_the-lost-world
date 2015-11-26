@@ -1,14 +1,14 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-*[epub|type~="z3998:letter"] header p,
-*[epub|type~="z3998:letter"] footer p,
-*[epub|type~="z3998:letter"] header + p,
+[epub|type~="z3998:letter"] header p,
+[epub|type~="z3998:letter"] footer p,
+[epub|type~="z3998:letter"] header + p,
 .newspaper h4 + p{
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:letter"] footer{
+[epub|type~="z3998:letter"] footer{
 	margin-top: 1em;
 }
 
@@ -17,18 +17,18 @@ section[epub|type~="epigraph"] blockquote{
 	max-width: 75%;
 }
 
-*[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:verse"] p span{
+[epub|type~="z3998:verse"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:verse"] br{
+[epub|type~="z3998:verse"] br{
 	display: none;
 }
 
