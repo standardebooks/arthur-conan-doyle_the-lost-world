@@ -4,8 +4,14 @@
 [epub|type~="z3998:letter"] header p,
 [epub|type~="z3998:letter"] footer p,
 [epub|type~="z3998:letter"] header + p,
-.newspaper h4 + p{
+.newspaper header + p{
 	text-indent: 0;
+}
+
+.newspaper header p{
+	text-indent: 0;
+	text-align: center;
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:letter"] footer{
