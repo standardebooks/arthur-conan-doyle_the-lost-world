@@ -68,3 +68,7 @@ figure img{
 	margin: auto;
 	display: block;
 }
+
+.signature{
+	font-variant: small-caps;
+}
