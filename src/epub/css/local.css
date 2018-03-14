@@ -18,9 +18,14 @@
 	margin-top: 1em;
 }
 
+section[epub|type~="epigraph"]{
+	text-align: center;
+}
+
 section[epub|type~="epigraph"] blockquote{
+	display: inline-block;
 	margin: 5em auto;
-	max-width: 75%;
+	text-align: left;
 }
 
 [epub|type~="z3998:verse"] p{
