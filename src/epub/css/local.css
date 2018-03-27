@@ -63,15 +63,14 @@ span[epub|type~="subtitle"]{
 }
 
 figure{
-	margin: 1em;
-	max-height: 100%;
+	margin: 1em auto;
 	text-align: center;
 }
 
 figure img{
-	max-width: 100%;
-	margin: auto;
 	display: block;
+	margin: auto;
+	max-width: 100%;
 }
 
 .signature{
