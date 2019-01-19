@@ -4,11 +4,15 @@
 [epub|type~="z3998:letter"] header p,
 [epub|type~="z3998:letter"] footer p,
 [epub|type~="z3998:letter"] header + p,
-.newspaper header + p{
+#chapter-16 blockquote header + p{
 	text-indent: 0;
 }
 
-.newspaper header p{
+#chapter-16 blockquote header{
+	margin-bottom: 1em;
+}
+
+#chapter-16 blockquote header p{
 	text-indent: 0;
 	text-align: center;
 	font-variant: small-caps;
