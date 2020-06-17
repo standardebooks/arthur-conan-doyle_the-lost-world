@@ -47,10 +47,12 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="belongs-to-collection" id="collection">Professor Challenger</meta>
+		<meta property="collection-type" refines="#collection">series</meta>
 		<dc:description id="description">A team of scientists and adventurers explores a prehistoric land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Even though &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Doyle&lt;/a&gt; is most famous for his &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock&lt;/a&gt; stories, he was also a prolific novelist, and &lt;i&gt;The Lost World&lt;/i&gt; is one of his more famous non-Sherlock novels. Like many novels of the day, it was first published serially.&lt;/p&gt;
-			&lt;p&gt;In it we meet a group of adventurers who head to a deep South American jungle to explore rumors of long-lost dinosaurs. The plot is driven by their journey, discoveries, and subsequent narrow escape. Notably, &lt;i&gt;The Lost World&lt;/i&gt; is the novel in which Doyle’s popular recurring character, Professor Challenger, is introduced.&lt;/p&gt;
+			&lt;p&gt;In it we meet a group of adventurers who head to a deep South American jungle to explore rumors of long-lost dinosaurs. The plot is driven by their journey, discoveries, and subsequent narrow escape. Notably, &lt;i&gt;The Lost World&lt;/i&gt; is the novel in which Doyle’s popular recurring character, &lt;a href="https://standardebooks.org/collections/professor-challenger"&gt;Professor Challenger&lt;/a&gt;, is introduced.&lt;/p&gt;
 			&lt;p&gt;Doyle based many of the characters and locations on people and places he was familiar with: the journalist Ed Malone was modeled on &lt;abbr&gt;E. D.&lt;/abbr&gt; Morel, and Lord John Roxton on Roger Casement; the Lost World itself was based on descriptions of Bolivia in letters sent to Doyle by his friend Percy Harrison Fawcett.&lt;/p&gt;
 			&lt;p&gt;The novel remains hugely influential and widely adapted today. The title might even remind modern readers of a certain very famous movie franchise about dinosaur theme parks!&lt;/p&gt;
 		</meta>
