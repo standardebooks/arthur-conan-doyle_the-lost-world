@@ -46,7 +46,6 @@
 		<meta property="term" refines="#subject-5">sh2008102270</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta id="collection" property="belongs-to-collection">Professor Challenger</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<dc:description id="description">A team of scientists and adventurers explores a prehistoric land.</dc:description>
