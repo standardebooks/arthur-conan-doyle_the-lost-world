@@ -84,11 +84,6 @@ p span.i1{
 	padding-left: 2em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 figure{
 	margin: 1em auto;
 	text-align: center;
