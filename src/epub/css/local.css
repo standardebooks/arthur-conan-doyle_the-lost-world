@@ -95,6 +95,6 @@ figure img{
 	max-width: 100%;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
