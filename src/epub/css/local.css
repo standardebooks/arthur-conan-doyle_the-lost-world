@@ -22,8 +22,9 @@
 	text-align: left;
 }
 
-[epub|type~="z3998:letter"] footer{
+footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 /* All epigraphs */
