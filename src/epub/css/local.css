@@ -19,7 +19,7 @@
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: left;
+	text-align: initial;
 }
 
 footer{
@@ -45,7 +45,7 @@ section[epub|type~="epigraph"] > *{
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
-	text-align: left;
+	text-align: initial;
 }
 
 @supports(display: flex){
@@ -66,7 +66,7 @@ section[epub|type~="epigraph"] > *{
 /* End full-page epigraphs */
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
