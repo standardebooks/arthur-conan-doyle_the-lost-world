@@ -13,9 +13,9 @@
 }
 
 #chapter-16 blockquote header p{
-	text-indent: 0;
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:letter"] header{
