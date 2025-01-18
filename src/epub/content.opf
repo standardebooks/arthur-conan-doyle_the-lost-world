@@ -49,6 +49,7 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Professor Challenger</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A team of scientists and adventurers explores a prehistoric land.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Even though &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Doyle&lt;/a&gt; is most famous for his &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock&lt;/a&gt; stories, he was also a prolific novelist, and &lt;i&gt;The Lost World&lt;/i&gt; is one of his more famous non-Sherlock novels. Like many novels of the day, it was first published serially.&lt;/p&gt;
