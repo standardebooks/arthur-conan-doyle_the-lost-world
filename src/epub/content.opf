@@ -51,7 +51,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Professor Challenger</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A team of scientists and adventurers explores a prehistoric land.</dc:abstract>
+		<meta property="schema:abstract">A team of scientists and adventurers explores a prehistoric land.</meta>
 		<dc:description>
 			&lt;p&gt;Even though &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Doyle&lt;/a&gt; is most famous for his &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock&lt;/a&gt; stories, he was also a prolific novelist, and &lt;i&gt;The Lost World&lt;/i&gt; is one of his more famous non-Sherlock novels. Like many novels of the day, it was first published serially.&lt;/p&gt;
 			&lt;p&gt;In it we meet a group of adventurers who head to a deep South American jungle to explore rumors of long-lost dinosaurs. The plot is driven by their journey, discoveries, and subsequent narrow escape. Notably, &lt;i&gt;The Lost World&lt;/i&gt; is the novel in which Doyle’s popular recurring character, &lt;a href="https://standardebooks.org/collections/professor-challenger"&gt;Professor Challenger&lt;/a&gt;, is introduced.&lt;/p&gt;
