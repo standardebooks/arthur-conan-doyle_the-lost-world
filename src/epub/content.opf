@@ -69,7 +69,7 @@
 		<link href="https://github.com/standardebooks/arthur-conan-doyle_the-lost-world" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
 		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
-		<meta property="schema:alternateName" refines="#author">Sir Arthur Ignatius Conan Doyle</meta>
+		<meta property="schema:alternateName" refines="#author">Arthur Ignatius Conan Doyle</meta>
 		<link href="https://en.wikipedia.org/wiki/Arthur_Conan_Doyle" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79082292.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
